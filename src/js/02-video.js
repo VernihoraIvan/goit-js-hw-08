@@ -1,4 +1,3 @@
-import { galleryItems } from './gallery-items';
 import Player from '@vimeo/player';
 import Player from '@vimeo/player';
 
